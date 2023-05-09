@@ -1,0 +1,43 @@
+*{ box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(30, 38%, 92%);
+    margin: 10% 30%;
+}
+.container{
+    background-color: white;
+    
+    
+}
+.right-box{
+    padding:25px 20px;
+}
+h2{
+    font-family: "Fraunces-Bold" ;
+    font-weight: bolder;
+    color:  hsl(158, 36%, 37%);
+    display: inline-block;
+
+}
+h3{
+    font-family:"Fraunces-Bold";
+    font-weight: bolder;
+}
+p{
+    color: gray;
+}
+.attribution{
+    
+}
+.strike{
+    /* display: inline-block; */
+}
+.image-product{
+    width: 350px;
+    height: 400px;
+    margin: 0, 5px 0 0;
+}
+.btn{
+    display:inline-block;
+}
